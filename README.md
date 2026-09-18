@@ -19,7 +19,6 @@ The application does **not** contain a predefined server address. The server URL
 * File downloads using Android Download Manager
 * Android notifications triggered by the web application
 * External links support
-* No server address or credentials hardcoded in the source code
 
 ## Requirements
 
