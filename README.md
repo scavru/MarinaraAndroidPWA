@@ -1,0 +1,2 @@
+# MarinaraAndroidPWA
+full screen app
